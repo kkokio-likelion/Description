@@ -3,8 +3,10 @@
     - ChatGPT를 활용하여 사용자가 음성으로 질문하고 대답을 받을 수 있는 시스템 구축.
 2. 👥 **사용자 친화적인 인터페이스**
     - 다양한 사용자층이 쉽게 사용할 수 있는 직관적이고 반응성 높은 사용자 인터페이스 설계.
-3. 🌐 **다양한 응용 분야 지원**
+3. 🌐 **다양한 상황에 대처 가능한 유연한 시스템**
     - 정보 안내, 주문 처리, 고객 지원 등 다양한 분야에서 활용할 수 있는 다목적 키오스크 시스템 개발.
+4. 🌍 **다국어 지원**
+    - 다양한 언어를 지원하여 글로벌 사용자층을 대상으로 하는 서비스 제공
 <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/5a263f61-896d-479b-bf8f-210ec53c8e16">
 </p>
@@ -21,7 +23,17 @@
 
 # 아키텍처
 <p align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/661df901-1013-4fe0-b528-e26d45c11078">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/c2967ed1-f408-4dd7-8ce7-be253f61ae36">
+</p>
+
+### OpenAi Api Proxy
+<p align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/d82c9311-1035-4010-ba8d-c3baa1826589">
+</p>
+
+# Use Case Diagram
+<p align="center">
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/180aad18-0667-42b4-85cf-deb7e9703224">
 </p>
 
 # ERD
