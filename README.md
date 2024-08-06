@@ -31,7 +31,7 @@
   <img width="700" alt="image" src="https://github.com/user-attachments/assets/d82c9311-1035-4010-ba8d-c3baa1826589">
 </p>
 
-# Use Case Diagram
+# UseCase Diagram
 <p align="center">
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/180aad18-0667-42b4-85cf-deb7e9703224">
 </p>
