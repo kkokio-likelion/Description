@@ -31,12 +31,12 @@
   <img width="700" alt="image" src="https://github.com/user-attachments/assets/d82c9311-1035-4010-ba8d-c3baa1826589">
 </p>
 
-# UseCase Diagram
+### UseCase Diagram
 <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/9b558767-4b97-49f3-8cfa-3ca9e174dfa4">
 </p>
 
-# ERD
+### ERD
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/bd9185cc-930f-417d-8ab1-408663f2b40a">
 
 # 팀원 👬👬
