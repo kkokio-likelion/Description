@@ -28,7 +28,7 @@
 
 ### OpenAi Api Proxy
 <p align="center">
-  <img width="700" alt="image" src="https://github.com/user-attachments/assets/d82c9311-1035-4010-ba8d-c3baa1826589">
+    <img width="1033" alt="image" src="https://github.com/user-attachments/assets/3f2a9ca8-14b4-45dc-8150-da1d84e2cb38">
 </p>
 
 ### UseCase Diagram
