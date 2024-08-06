@@ -1,8 +1,12 @@
 # KKOKIO 목표
-![image](https://github.com/user-attachments/assets/5a263f61-896d-479b-bf8f-210ec53c8e16)
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/5a263f61-896d-479b-bf8f-210ec53c8e16">
+</p>
 
 # KKOIO 사용법
-![image](https://github.com/user-attachments/assets/6d4ba315-af37-4e1b-9c69-6de5d0ca77ed)
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/6d4ba315-af37-4e1b-9c69-6de5d0ca77ed">
+</p>
 
 
 # KKOKIO 시연
@@ -12,18 +16,20 @@
 
 
 # 아키텍처
-![image](https://github.com/user-attachments/assets/661df901-1013-4fe0-b528-e26d45c11078)
+<p align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/661df901-1013-4fe0-b528-e26d45c11078">
+</p>
 
 # ERD
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/bd9185cc-930f-417d-8ab1-408663f2b40a">
 
 # 팀원
 ### FrontEnd
-![](https://avatars.githubusercontent.com/u/35715109?v=4) | ![](https://avatars.githubusercontent.com/u/99523154?v=4) |
+<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/35715109?v=4"> | <img width="200" alt="image" src="https://avatars.githubusercontent.com/u/99523154?v=4"> |
 |:-:|:-:|
 [정훈](https://github.com/wei756) | [용승](https://github.com/Y-seungyi)|
 
 ### BackEnd
-![](https://avatars.githubusercontent.com/u/115917020?v=4) | ![](https://avatars.githubusercontent.com/u/44052861?v=4)
+<img width="200" alt="image" src="https://avatars.githubusercontent.com/u/115917020?v=4"> | <img width="200" alt="image" src="https://avatars.githubusercontent.com/u/44052861?v=4"> |
 |:-:|:-:|
 [온지](https://github.com/onjik) | [봉현](https://github.com/fdoom)|
